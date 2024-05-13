@@ -1,0 +1,10 @@
+---
+title: "recipes.qmd"
+author: "Miriam"
+format: html
+editor: visual
+---
+
+## muesli
+
+Mix favorite muesli and milk. Additionally add topping (e.g. fruit)
