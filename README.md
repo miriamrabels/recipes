@@ -1,1 +1,1 @@
-recipes include TomateMozzarella and Muesli
+recipes include Muesli
